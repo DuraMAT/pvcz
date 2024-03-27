@@ -112,3 +112,4 @@ plt.show()
 # Change Log
 
 - 0.2 Added multiple activation energies to equivalent temperature dataset.
+- 0.3 Updated requirements to numpy 1.21.6 andpandas 1.3.5
